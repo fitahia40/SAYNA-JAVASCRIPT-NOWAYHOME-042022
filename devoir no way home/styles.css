@@ -1,0 +1,13 @@
+.body{
+    display: flex;
+    background-color: aliceblue;
+    height: 50px;
+    width: 50px;
+}
+.footer{
+    text-align: center;
+    display: block;
+    background-color: brown;
+    height: 10px;
+    width: auto;
+}
